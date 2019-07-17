@@ -1,3 +1,7 @@
+## Analytics with python
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+
+
 ![](https://media.giphy.com/media/3HEGGI98bwvWeXL9Qy/giphy.gif)
 
 ### About this course

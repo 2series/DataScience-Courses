@@ -1,3 +1,7 @@
+## Working with data
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+
+
 ![](images/igm.png)
 
 ## Description

@@ -1,4 +1,5 @@
 ## Artificial Intelligence
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 

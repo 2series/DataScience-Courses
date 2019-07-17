@@ -1,3 +1,6 @@
+## Regression and Clustering
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+
 ![](images/img.png)
 
 # Description

@@ -1,3 +1,6 @@
+## R for data analysis
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+
 ![](image/data.png)
 
 # Description

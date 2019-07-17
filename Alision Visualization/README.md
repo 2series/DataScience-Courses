@@ -1,3 +1,6 @@
+## Visualizing Data and Exploring Models
+RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+
 ![](image/data.png)
 
 # Description
