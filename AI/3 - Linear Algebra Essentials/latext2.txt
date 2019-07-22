@@ -1,0 +1,17 @@
+# Edit your math expression below. 
+\sqrt{a^2+b^2+c^2}
+
+# Edit your math expression below. 
+1
+# Edit your second math expression below
+0
+
+# (a) The magnitude is:
+\alpha\sqrt{a^2 + b^2}
+# (b) Will the direction change?
+no
+# (c) The direction will change by
+180
+# (d) The magnitude will:
+decrease
+
