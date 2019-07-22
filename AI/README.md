@@ -1,6 +1,6 @@
 ## Artificial Intelligence
 RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
-
+""
 
 Ever had the perfect data science experience? The data pull went perfectly. There were no merging errors or missing data. Hypotheses were clearly defined prior to analyses. Randomization was performed for the treatment of interest. The analytic plan was outlined prior to analysis and followed exactly. The conclusions were clear and actionable decisions were obvious. Has that every happened to you? Of course not. 
 
