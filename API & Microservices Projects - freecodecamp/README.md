@@ -13,5 +13,5 @@ File Metadata Microservice - https://purple-paladin.glitch.me/api/fileanalyse
 
 ## Certificate
 
-![img](api and microservices.png)
+<img src="./image_gallery/api and microservices.png"/>
 
