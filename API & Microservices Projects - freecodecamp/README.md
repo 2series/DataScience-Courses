@@ -11,5 +11,7 @@ Exercise Tracker - https://dev.fitbit.com/build/reference/web-api/activity/
 
 File Metadata Microservice - https://purple-paladin.glitch.me/api/fileanalyse
 
+## Certificate
 
+![img](api and microservices.png)
 
