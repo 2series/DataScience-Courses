@@ -14,7 +14,7 @@ Anonymous Message Board - https://horn-celery.glitch.me/
 
 ## Certificate
 
-<img src="./image_gallery/is.png"/>
+<img src="./image_gallery/Information Security and Quality Assurance.png"/>
 
 
 
