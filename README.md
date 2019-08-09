@@ -4,7 +4,6 @@ RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
 ### Resume
 <img src="./image_gallery/rv_resume.png" width="550" height="700"/>
 
-
 ([Download PDF](image_gallery/rihad_variawa_resume.pdf))
 
 ### License
