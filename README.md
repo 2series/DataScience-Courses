@@ -1,7 +1,7 @@
 ## Completed courses by a Data Scientist, Who looks at everything through a lens of numbers. A story-teller by nature and a problem-solver at the core
 
 ### Resume
-<img src="./image_gallery/rv_resume.png" align="centre" title="RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING" width="550" height="700">
+<img src="./image_gallery/rv_resume.png" align="" title="RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING" width="550" height="700">
 
 ([Download PDF](image_gallery/rihad_variawa_resume.pdf))
 
