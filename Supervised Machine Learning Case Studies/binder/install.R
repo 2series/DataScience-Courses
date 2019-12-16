@@ -1,0 +1,8 @@
+install.packages("e1071")
+install.packages("gbm")
+install.packages("xgboost")
+install.packages("randomForest") 
+install.packages("caret")  
+install.packages("rsample")
+install.packages("yardstick")
+install.packages("tidyverse")
